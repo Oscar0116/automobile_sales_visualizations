@@ -6,9 +6,6 @@ This project is a Dash web application that visualizes automobile sales data and
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-
 ## Overview
 
 This dashboard provides the following functionalities:
